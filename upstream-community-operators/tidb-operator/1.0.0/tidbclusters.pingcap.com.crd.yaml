@@ -8,7 +8,7 @@ spec:
     kind: TidbCluster
     plural: tidbclusters
     shortNames:
-    - tc
+      - tc
     singular: tidbcluster
   scope: Namespaced
   validation:
